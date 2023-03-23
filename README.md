@@ -44,7 +44,7 @@ To use the Jupyter Notebooks, simply upload the .ipynb file to your Google Drive
 
 ## Dataset
 
-The dataset used for training and testing the model is available at link to dataset.
+The dataset(dataset.zip) used for training and testing the model is available, please download and extract it.
 
 ## Results
 
