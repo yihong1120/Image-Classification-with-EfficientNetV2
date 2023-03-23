@@ -23,7 +23,7 @@ To run the Jupyter Notebooks, you will also need:
 
 1. Clone the repository:
 
-    git clone https://github.com/username/repository-name.git
+    git clone https://github.com/yihong1120/Image-Classification-with-EfficientNetV2.git
 
 2. Install the required dependencies:
 
